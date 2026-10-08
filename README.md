@@ -18,7 +18,7 @@ The roadmap progresses from LLM fundamentals to document AI, semantic search, RA
 |:---:|---|---|
 | ✅ **01** | LLM API Fundamentals | CLI AI Assistant |
 | ✅ **02** | Prompt Engineering | Data Quality Classifier |
-| ⬜ **03** | Structured Outputs | Support Ticket Extractor |
+| ✅ **03** | Structured Outputs | Support Ticket Extractor |
 | ⬜ **04** | Reliable LLM Applications | Resilient LLM Processor |
 | ⬜ **05** | Tool / Function Calling | AI Calculator |
 | ⬜ **06** | Context Engineering | Schema-Aware Assistant |
