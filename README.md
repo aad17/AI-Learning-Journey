@@ -22,7 +22,7 @@ The roadmap progresses from LLM fundamentals to document AI, semantic search, RA
 | ✅ **04** | Reliable LLM Applications | Resilient LLM Processor |
 | ✅ **05** | Tool / Function Calling | AI Calculator |
 | ✅ **06** | Context Engineering | Schema-Aware Assistant |
-| ⬜ **07** | LLM Evaluation Basics | Prompt Evaluation Harness |
+| ✅ **07** | LLM Evaluation Basics | Prompt Evaluation Harness |
 
 ### 🏗️ Integration Project 1 — LLM-Powered Data Analyst
 
