@@ -6,7 +6,7 @@ A hands-on journey from **Data Engineering → Data + AI Engineering**, built ar
 
 The roadmap progresses from LLM fundamentals to document AI, semantic search, RAG, evaluation, agents, MCP, security, and finally production AI engineering.
 
-**Progress: 1 / 88 Days**
+**Progress: 7 / 88 Days**
 
 ---
 
@@ -295,4 +295,4 @@ The roadmap progresses from LLM fundamentals to document AI, semantic search, RA
 
 ## 📈 Current Progress
 
-**1 / 88 Days**
+**7 / 88 Days**
