@@ -28,7 +28,7 @@ The roadmap progresses from LLM fundamentals to document AI, semantic search, RA
 
 | Day | Project Milestone |
 |:---:|---|
-| ⬜ **08** | Requirements + Architecture + Analytical Capabilities |
+| ✅ **08** | Requirements + Architecture + Analytical Capabilities |
 | ⬜ **09** | Natural Language → Analytical Intent Planner |
 | ⬜ **10** | Validated Query Executor |
 | ⬜ **11** | Evaluation + Failure Analysis + Architecture Cleanup |
